@@ -1,0 +1,8 @@
+{
+  "parent": "ae2:part/display_off",
+  "textures": {
+    "lightsBright": "ae2crafting:part/processor_terminal_bright",
+    "lightsMedium": "ae2crafting:part/processor_terminal_medium",
+    "lightsDark": "ae2crafting:part/processor_terminal_dark"
+  }
+}
